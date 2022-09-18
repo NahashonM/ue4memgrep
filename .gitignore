@@ -1,0 +1,4 @@
+jni/objects
+libs
+obj
+*.exe
